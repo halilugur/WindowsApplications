@@ -1,0 +1,13 @@
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe.config
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\bin\Debug\LoginApplication.pdb
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.AssemblyReference.cache
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Login.resources
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.ModernTextBox.resources
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.RoundePanel.resources
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.cache
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.exe
+C:\Users\halilugur\source\repos\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
